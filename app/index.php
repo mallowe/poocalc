@@ -27,7 +27,7 @@
             </div>
             <div class="col mr-5">
             <img src="coronavirus.jpg" alt="Coronavirus" height="255vh">
-                <p class="text-justify">CV does not make you poo more. If you’re in isolation you will poo more at home, so you will need an increased supply of loo roll. Otherwise, DO NOT PANIC. Not sure how much loo roll you’re going to need if you do have to self-isolate? Use our handy calculator....</p>                
+                <p class="text-justify">CV doesn't make you poo more. If you’re in isolation you will poo more at home, so you will need an increased supply of loo roll. Otherwise, DO NOT PANIC. Not sure how much loo roll you’re going to need if you do have to self-isolate? Use our handy calculator....</p>                
             <div class="input-group">
              <form action="poopcalc.php" method="get">
                 Number of loo rolls you have: <br><br><input type="number" name="number_of_rolls"><br><br>
